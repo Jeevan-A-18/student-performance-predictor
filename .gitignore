@@ -1,0 +1,18 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit local credentials (keep config.toml if needed, but ignore credentials)
+.streamlit/credentials.toml
